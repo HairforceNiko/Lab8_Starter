@@ -38,7 +38,7 @@ describe('Basic user flow for Website', () => {
     // TODO - Step 1
     // Right now this function is only checking the first <product-item> it found, make it so that
     // it checks every <product-item> it found
-
+    
   }, 10000);
 
   // Check to make sure that when you click "Add to Cart" on the first <product-item> that
